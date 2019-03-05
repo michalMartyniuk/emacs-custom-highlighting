@@ -1,7 +1,7 @@
 (provide 'highlighting)
 
 (setq load-path (cons "~/emacs/highlighting" load-path))
-(require 'v-highlighting)
-(require 'v-h-patterns)
-(require 'v-faces)
+(require 'h-functions)
+(require 'h-patterns)
+(require 'h-faces)
 
